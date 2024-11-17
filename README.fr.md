@@ -1,8 +1,8 @@
-nom du référentiel
+hauteur
 
-# Nom du référentiel
+# Hauteur
 
-> Slugline
+> Gestion de projet avec intelligence artificielle
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
@@ -14,7 +14,7 @@ Texte
 
 ## 100 - Présentation
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
