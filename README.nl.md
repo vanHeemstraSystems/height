@@ -1,8 +1,8 @@
-repositorynaam
+hoogte
 
-# Naam van opslagplaats
+# Hoogte
 
-> Slaklijn
+> Projectmanagement met kunstmatige intelligentie
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
@@ -16,7 +16,7 @@ Tekst
 
 Zien[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Vereisten
 
 Zien[README.md](./200/README.md)
 
