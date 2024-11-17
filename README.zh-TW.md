@@ -1,20 +1,20 @@
-儲存庫名稱
+高度
 
-# 儲存庫名稱
+# 高度
 
-> 斯拉格萊恩
+> 人工智慧專案管理
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
 -   [文件](./DOCUMENTATION.md)
 
-**Executive Summary**
+**執行摘要**
 
 文字
 
 ## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
@@ -26,4 +26,4 @@ See [README.md](./100/README.md)
 
 ## 400 - 結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
