@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+height
+# Height
 
-> Slugline
+> Project Management with Artificial Intelligence
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
