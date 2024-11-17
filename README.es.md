@@ -1,8 +1,8 @@
-nombre-repositorio
+altura
 
-# Nombre del repositorio
+# Altura
 
-> línea de bala
+> Project Management with Artificial Intelligence
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
@@ -10,7 +10,7 @@ nombre-repositorio
 
 **Resumen ejecutivo**
 
-Texto
+Text
 
 ## 100 - Introducción
 
