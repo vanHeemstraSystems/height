@@ -12,7 +12,7 @@
 
 文字
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
@@ -26,4 +26,4 @@
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
