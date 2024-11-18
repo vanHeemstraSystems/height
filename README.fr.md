@@ -2,7 +2,7 @@ hauteur
 
 # Hauteur
 
-> Project Management with Artificial Intelligence
+> Gestion de projet avec intelligence artificielle
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
