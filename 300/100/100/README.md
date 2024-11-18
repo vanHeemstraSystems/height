@@ -6,5 +6,12 @@ From the **Settings** menu, choose **Integrations***, the **GitHub**.
 
 https://height.app/8RW_I4bHx6/settings/integrations/github/description
 
+Click **+ Add GitHub**.
+
+Choose whichever repositories to add. We choose all from **vanHeemstraSystems** and **Agility Game**.
+
+![Screenshot 2024-11-18 at 10 18 55](https://github.com/user-attachments/assets/3e7b6390-8fbd-45e5-b447-9c50d6b63e6f)
+
+
 
 MORE
