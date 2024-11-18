@@ -1,18 +1,18 @@
-高度
+height
 
 # 高度
 
 > 人工智慧專案管理
 
 -   [詞彙表](./GLOSSARY.md)
--   [參考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [文件](./DOCUMENTATION.md)
 
 **執行摘要**
 
 文字
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
