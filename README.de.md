@@ -5,7 +5,7 @@ Höhe
 > Projektmanagement mit künstlicher Intelligenz
 
 -   [Glossar](./GLOSSARY.md)
--   [Referenzen](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 
 **Zusammenfassung**
