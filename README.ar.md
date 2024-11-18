@@ -4,7 +4,7 @@
 
 > إدارة المشاريع بالذكاء الاصطناعي
 
--   [مسرد](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
 -   [التوثيق](./DOCUMENTATION.md)
 
