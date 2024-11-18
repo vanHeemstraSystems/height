@@ -1,20 +1,20 @@
 ऊंचाई
 
-# ऊंचाई
+# Height
 
 > आर्टिफिशियल इंटेलिजेंस के साथ परियोजना प्रबंधन
 
--   [शब्दकोष](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 
-**कार्यकारी सारांश**
+**Executive Summary**
 
 मूलपाठ
 
 ## 100 - परिचय
 
-देखना[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
