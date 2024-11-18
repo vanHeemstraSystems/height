@@ -1,18 +1,18 @@
-height
+高度
 
-# Height
+# 高度
 
-> Project Management with Artificial Intelligence
+> 人工智能项目管理
 
 -   [词汇表](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [参考](./REFERENCES.md)
 -   [文档](./DOCUMENTATION.md)
 
-**Executive Summary**
+**执行摘要**
 
 文本
 
-## 100 - Introduction
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
@@ -20,10 +20,10 @@ height
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 构建我们的应用程序
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 结论
 
 看[README.md](./400/README.md)
