@@ -2,11 +2,11 @@
 
 # 高度
 
-> Project Management with Artificial Intelligence
+> 人工智能项目管理
 
 -   [词汇表](./GLOSSARY.md)
--   [参考](./REFERENCES.md)
--   [文档](./DOCUMENTATION.md)
+-   [References](./REFERENCES.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **执行摘要**
 
@@ -20,10 +20,10 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 构建我们的应用程序
 
 看[README.md](./300/README.md)
 
-## 400 - 结论
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
