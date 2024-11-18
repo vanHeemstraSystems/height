@@ -2,7 +2,7 @@
 
 # 高度
 
-> 人工智能项目管理
+> Project Management with Artificial Intelligence
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
