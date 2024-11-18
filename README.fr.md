@@ -4,7 +4,7 @@ hauteur
 
 > Gestion de projet avec intelligence artificielle
 
--   [Glossaire](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
 -   [Documentation](./DOCUMENTATION.md)
 
@@ -16,7 +16,7 @@ Texte
 
 Voir[README.md](./100/README.md)
 
-## 200 - Exigences
+## 200 - Requirements
 
 Voir[README.md](./200/README.md)
 
