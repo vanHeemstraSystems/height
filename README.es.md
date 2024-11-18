@@ -6,7 +6,7 @@ altura
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
--   [Documentación](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **Resumen ejecutivo**
 
@@ -14,7 +14,7 @@ Texto
 
 ## 100 - Introducción
 
-See [README.md](./100/README.md)
+Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
