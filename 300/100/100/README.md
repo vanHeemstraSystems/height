@@ -32,7 +32,7 @@ For each project in GitHub for which a connection with Height has been set, the 
 
 ![Screenshot 2024-11-18 at 10 33 24](https://github.com/user-attachments/assets/154a5b39-0b46-4b41-8abc-d12fd5fa114c)
 
-For a team (here: **Agility Game**) for a specific project (here: **Integrate Agility Game with Home Assistant**), from the dotted menu in the right-hand top corner choose:  **Copy GitHub branch name**.
+For a team (here: **Agility Game**) for a specific project (here: **Integration of Agility Game with Home Assistant**), from the dotted menu in the right-hand top corner choose:  **Copy GitHub branch name**.
 
 ![Screenshot 2024-11-18 at 10 39 19](https://github.com/user-attachments/assets/6e3b3217-014b-4682-9f3b-2828ceec9b66)
 
