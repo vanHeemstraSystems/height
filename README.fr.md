@@ -2,25 +2,25 @@ hauteur
 
 # Hauteur
 
-> Gestion de projet avec intelligence artificielle
+> Project Management with Artificial Intelligence
 
 -   [Glossaire](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [Références](./REFERENCES.md)
 -   [Documentation](./DOCUMENTATION.md)
 
 **Résumé exécutif**
 
 Texte
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
