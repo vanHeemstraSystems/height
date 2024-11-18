@@ -2,7 +2,7 @@
 
 # ارتفاع
 
-> Project Management with Artificial Intelligence
+> إدارة المشاريع بالذكاء الاصطناعي
 
 -   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
