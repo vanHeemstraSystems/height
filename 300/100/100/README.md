@@ -22,6 +22,10 @@ Authenticate. We choose: **Use your authenticator app**.
 
 ![Screenshot 2024-11-18 at 10 23 07](https://github.com/user-attachments/assets/279ca062-cad0-4a6e-b495-5e3242a4e046)
 
+If all goes well, you'll be greeted with:
 
+![Screenshot 2024-11-18 at 10 27 36](https://github.com/user-attachments/assets/5286d865-4dd9-4e45-993b-30373335fed9)
+
+Choose **Open Height**.
 
 MORE
