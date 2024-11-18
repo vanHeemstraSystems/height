@@ -28,4 +28,10 @@ If all goes well, you'll be greeted with:
 
 Choose **Open Height**.
 
+Fort each project in GitHub for which a connection with Height has been set, the ```Configure``` option will be shown:
+
+![Screenshot 2024-11-18 at 10 33 24](https://github.com/user-attachments/assets/154a5b39-0b46-4b41-8abc-d12fd5fa114c)
+
+
+
 MORE
