@@ -12,6 +12,12 @@ Choose whichever repositories to add. We choose all from **vanHeemstraSystems** 
 
 ![Screenshot 2024-11-18 at 10 18 55](https://github.com/user-attachments/assets/3e7b6390-8fbd-45e5-b447-9c50d6b63e6f)
 
+![Screenshot 2024-11-18 at 10 20 40](https://github.com/user-attachments/assets/866ded4f-a98b-4639-8458-7163b49c12c8)
+
+Click **Install**
+
+**Note**: Do the same for vanHeemstraSystems.
+
 
 
 MORE
