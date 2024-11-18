@@ -18,6 +18,10 @@ Click **Install**
 
 **Note**: Do the same for vanHeemstraSystems.
 
+Authenticate. We choose: **Use your authenticator app**.
+
+![Screenshot 2024-11-18 at 10 23 07](https://github.com/user-attachments/assets/279ca062-cad0-4a6e-b495-5e3242a4e046)
+
 
 
 MORE
