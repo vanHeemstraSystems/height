@@ -2,7 +2,7 @@ altura
 
 # Altura
 
-> Project Management with Artificial Intelligence
+> Gestión de Proyectos con Inteligencia Artificial
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
