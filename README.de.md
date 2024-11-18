@@ -1,4 +1,4 @@
-Höhe
+height
 
 # Höhe
 
@@ -8,7 +8,7 @@ Höhe
 -   [Referenzen](./REFERENCES.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
